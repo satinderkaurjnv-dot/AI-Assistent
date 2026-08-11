@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mining Discovery AI Chat</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Mining Discovery AI Chat</h1>
+
+    <p>
+        This is the separate chatbot we are building before putting it
+        on the Mining Discovery website.
+    </p>
+
+
+    <!-- CHAT WIDGET -->
+
+    <div id="chat-widget">
+
+        <!-- Chat window -->
+        <div id="chat-window">
+
+            <!-- Header -->
+            <div class="chat-header">
+
+                <div>
+                    <strong>Mining Discovery</strong>
+                    <span>AI Assistant</span>
+                </div>
+
+                <button id="close-chat">
+                    ×
+                </button>
+
+            </div>
+
+
+            <!-- Messages -->
+            <div id="chat-messages">
+
+                <div class="message bot">
+                    Hello! 👋
+                    <br><br>
+                    Welcome to Mining Discovery.
+                    How can I help you today?
+                </div>
+
+            </div>
+
+
+            <!-- Input -->
+            <div class="chat-input-area">
+
+                <textarea
+                    id="chat-input"
+                    placeholder="Type your message..."
+                    rows="1"
+                ></textarea>
+
+                <button id="send-button">
+                    ➤
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <!-- Floating button -->
+       <button id="chat-button" type="button" aria-label="Open AI Assistant">
+    💬
+</button>
+
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+
+    <script src="chat.js"></script>
+
+</body>
+</html>
