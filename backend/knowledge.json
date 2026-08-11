@@ -1,0 +1,86 @@
+{
+  "company": {
+    "name": "Mining Discovery",
+    "description": "Mining Discovery is a mining-focused media and marketing platform.",
+    "website": "https://www.miningdiscovery.com/",
+    "email": "info@miningdiscovery.com"
+  },
+
+  "about": {
+    "description": "Mining Discovery provides mining news, insights, analysis, company information and marketing services for the global mining community.",
+    "focus": [
+      "Mining news",
+      "Mining industry insights",
+      "Industry analysis",
+      "Company information",
+      "Mining marketing"
+    ]
+  },
+
+  "services": [
+    {
+      "name": "Digital Branding",
+      "description": "Helps mining and industrial companies develop their brand identity and improve brand visibility."
+    },
+    {
+      "name": "Social Media Marketing",
+      "description": "Provides social media campaigns and strategies designed to strengthen brand presence and engagement."
+    },
+    {
+      "name": "Google Ads",
+      "description": "Provides Google Ads and paid advertising campaigns designed to generate traffic and reach relevant audiences."
+    },
+    {
+      "name": "LinkedIn & Meta Ads",
+      "description": "Provides advertising campaigns on LinkedIn and Meta platforms."
+    },
+    {
+      "name": "Logo & Visual Design",
+      "description": "Provides logo and visual identity design services."
+    },
+    {
+      "name": "Public Relations",
+      "description": "Provides PR and publicity support including media relations, press releases and thought leadership."
+    },
+    {
+      "name": "Webinars & Events",
+      "description": "Provides support for webinars and industry events."
+    },
+    {
+      "name": "Website Development",
+      "description": "Provides website development services for businesses and organizations."
+    },
+    {
+      "name": "App Development",
+      "description": "Provides web and mobile application development services."
+    }
+  ],
+
+  "content": [
+    "Mining news",
+    "Gold news",
+    "Copper news",
+    "Precious metals news",
+    "Corporate news",
+    "Mining projects",
+    "Research reports",
+    "Leadership content",
+    "Industry analysis",
+    "Magazines",
+    "Newsletters"
+  ],
+
+  "rules": [
+    "Never invent Mining Discovery company information.",
+    "Never invent Mining Discovery services.",
+    "Never invent Mining Discovery employees or executives.",
+    "Never invent prices.",
+    "Never invent phone numbers.",
+    "Never invent addresses.",
+    "Never invent partnerships.",
+    "If company-specific information is not available, say that the information is not available.",
+    "The assistant must identify itself as an AI assistant.",
+    "The assistant must not pretend to be a human employee.",
+    "For investment questions, provide general educational information and do not guarantee financial returns."
+  ]
+}
